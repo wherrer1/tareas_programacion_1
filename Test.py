@@ -7,3 +7,5 @@ else:
 	print("Esta malo")
 
 print("Hello 22222")
+
+print(0)
