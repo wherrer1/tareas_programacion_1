@@ -23,3 +23,5 @@ print (teo)
 1+3
 
 3
+
+print(20+99)
