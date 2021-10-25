@@ -1,7 +1,8 @@
-home = 0
+home = 22
 print("Hello",home)
 
-if(1>home)
-  print("Hello")
- else
-  print("Esta malo")
+if home < 1:
+	print("Hello")
+else:
+	print("Esta malo")
+
