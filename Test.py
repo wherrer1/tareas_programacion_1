@@ -19,3 +19,7 @@ print(yeah)
 teo = 1+1
 
 print (teo)
+
+1+3
+
+3
