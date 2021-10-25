@@ -11,3 +11,11 @@ print("Hello 22222")
 print(0)
 
 print(909090)
+
+yeah = 3
+
+print(yeah)
+
+teo = 1+1
+
+print (teo)
